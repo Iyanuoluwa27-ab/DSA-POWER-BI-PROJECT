@@ -42,5 +42,11 @@ Tools Used: Power BI (Charts, Cards, Conditional Formatting, Custom Formatting)
 
 ## Analysed File
 
+## Visuals & Dashboard
+
+
+## Business Insights (Summary)
+1. Management should encourage staff to reveal their gender for proper accountability considering the fact that the media already holds a notion that the organization is gender biased.
+
 
 
