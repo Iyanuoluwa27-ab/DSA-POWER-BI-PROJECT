@@ -40,11 +40,6 @@ Tools Used: Power BI (Charts, Cards, Conditional Formatting, Custom Formatting)
 | 9  Total amount paid to individual employees (salary inclusive of bonus ) | Custom column (salary * bonus) + salary, stacked column chart |
 | 10 Total amount paid out per region and company | Card (bonus plus salary), stacked column chart |
 
-## Analysed File
-
-## Visuals & Dashboard
-
-
 ## Business Insights (Summary)
 Management should encourage staff to reveal their gender for proper accountability considering the fact that the media already holds a notion that the organization is gender biased.
 
