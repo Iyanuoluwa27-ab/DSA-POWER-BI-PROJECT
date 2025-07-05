@@ -42,9 +42,16 @@ Tools Used: Power BI (Charts, Cards, Conditional Formatting, Custom Formatting)
 
 ## Business Insights (Summary)
 Management should:
-(1) Encourage staff to reveal their gender for proper accountability considering the fact that the media already holds a notion that the organization is gender biased.
+
+(1) Encourage staff to reveal their gender for transparency considering the fact that the media already holds a notion that the organization is gender biased.
+
 (2) Work on the issue of gender disparity in the organization as it can lead to
 *  Limited perspectives
+*  Reputation Damage
+*  Low employee morale
+*  Talent Loss
+
+(3) Assess the current salary structure and compare it to industry standards considering the fact that 69.13% of the Palmora Group's entire workforce earn below $90,000 which is the minimum salary to be paid to employees in manufacturing industries.
 
 
 
